@@ -15,7 +15,7 @@
 
 ##  功能展示
 
-![rtsp_display](D:\Data\sstudy\audioAndVideo\display\rtsp_display.gif)
+![rtsp_display](/rtsp_display.gif)
 
 ##  项目部署
 
