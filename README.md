@@ -15,7 +15,12 @@
 
 ##  功能展示
 
+
+拉流播放
 ![rtsp_display](/rtsp_display.gif)
+
+RTSP通信
+![RTSP](/sdp_description.png)
 
 ##  项目部署
 
