@@ -16,8 +16,10 @@
 ##  功能展示
 
 
-拉流播放
+拉流播放(gif动图传输有延迟)
 ![rtsp_display](/rtsp_display.gif)
+
+---
 
 RTSP通信
 ![RTSP](/sdp_description.png)
